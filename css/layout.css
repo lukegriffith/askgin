@@ -1,0 +1,45 @@
+
+
+
+
+body #grid {
+
+    min-width: 200px;
+    max-width: 500px;
+    margin: 0px auto;
+    margin-top: 200px;
+}
+
+body section article {
+    text-align: center;
+}
+
+.search {
+    min-height: 25px;
+}
+
+#grid button {
+    border: none;
+    padding: 6px 20px;
+}
+
+body section input {
+    width: 75%;
+}
+
+body section button {
+    width: 24%;
+}
+
+#result {
+    margin-top: 5px;
+}
+
+#result a {
+
+}
+
+#search article {
+    margin: 0px auto;
+    max-width:  75%;
+}
